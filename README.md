@@ -1,2 +1,3 @@
 # bootstar
-A generic .net implementation of A* pathfinding.
+
+.NET implementation of A* path finding.
