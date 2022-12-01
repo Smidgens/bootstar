@@ -1,4 +1,4 @@
-Deprecation note: Core implementation has been moved [here](https://github.com/Smidgens/unity-search).
+**DEPRECATION NOTE**: Core implementation has been moved [here](https://github.com/Smidgens/unity-search).
 
 
 <br/>
